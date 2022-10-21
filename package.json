@@ -1,7 +1,7 @@
 {
-  "name": "03-webpack-inicial",
+  "name": "Todo",
   "version": "1.0.0",
-  "description": "",
+  "description": "To do list developed as laboratorie in the course 'JavaScript Moderno: Guia para dominar el lenguaje' of Fernando Herrera in Udemy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
